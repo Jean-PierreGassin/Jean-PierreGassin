@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jean-Pierre Gassin 👋</h1>
 
 <p align="center">
-  Senior Backend Developer · PHP Specialist · Based in Brisbane, AU
+  Senior Backend Developer · PHP Specialist · Based in Gold Coast, AU
 </p>
 
 <p align="center">
