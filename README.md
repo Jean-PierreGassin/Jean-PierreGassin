@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a senior backend developer with a deep focus on PHP and modern web ecosystems. I care about writing clean, maintainable code and building systems that scale — whether that's crafting robust APIs, wiring up complex backend logic, or architecting solutions from the ground up.
+I'm a senior backend developer with a deep focus on PHP and modern web ecosystems. I care about writing clean, maintainable code and building systems that scale - whether that's crafting robust APIs, wiring up complex backend logic, or architecting solutions from the ground up.
 
 When I'm not shipping code, I'm working toward building something of my own.
 
@@ -43,10 +43,10 @@ When I'm not shipping code, I'm working toward building something of my own.
 
 ### 🎮 Beyond the Code
 
-- ⚔️ Avid **World of Warcraft** player — always chasing a parsing improvement
-- 📊 Passionate about **analytical tooling** — from Warcraft Logs performance benchmarking to data-driven dashboards
-- 🧠 Enjoy turning raw data into actionable insights through well-crafted interfaces
-- 🚀 Currently exploring the frontier of **AI-assisted development workflows**
+- Avid **World of Warcraft** player - always chasing a parsing improvement
+- Passionate about **analytical tooling** - from Warcraft Logs performance benchmarking to data-driven dashboards
+- Enjoy turning raw data into actionable insights through well-crafted interfaces
+- Currently exploring the frontier of **AI-assisted development workflows** 🤖
 
 ---
 
