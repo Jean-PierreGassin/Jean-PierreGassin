@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Jean-Pierre Gassin 👋</h1>
+<h1 align="center">Hey, I'm Jean-Pierre 👋</h1>
 
 <p align="center">
-  Senior Backend Developer · PHP Specialist · Based in Gold Coast, AU
+  Programmer/Developer · PHP Specialist · Based in Gold Coast, AU
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a senior backend developer with a deep focus on PHP and modern web ecosystems. I care about writing clean, maintainable code and building systems that scale - whether that's crafting robust APIs, wiring up complex backend logic, or architecting solutions from the ground up.
+I'm a programmer/developer with a deep focus on PHP and modern web ecosystems. I care about writing clean, maintainable code and building systems that scale - whether that's crafting robust APIs, wiring up complex backend logic, or architecting solutions from the ground up.
 
 When I'm not shipping code, I'm working toward building something of my own.
 
