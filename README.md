@@ -43,8 +43,8 @@ When I'm not shipping code, I'm working toward building something of my own.
 
 ### 🎮 Beyond the Code
 
-- Avid **World of Warcraft** player - always chasing a parsing improvement
-- Passionate about **analytical tooling** - from Warcraft Logs performance benchmarking to data-driven dashboards
+- Dad to 2 awesome humans
+- Passionate about **analytical tooling** - from performance benchmarking to data-driven dashboards
 - Enjoy turning raw data into actionable insights through well-crafted interfaces
 - Currently exploring the frontier of **AI-assisted development workflows** 🤖
 
@@ -53,9 +53,7 @@ When I'm not shipping code, I'm working toward building something of my own.
 ### 📫 Get in Touch
 
 <p>
-  <a href="https://github.com/Jean-PierreGassin">
-    <img src="https://img.shields.io/badge/GitHub-Jean--PierreGassin-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:jeanpierre.gassin+github@gmail.com?subject=via GitHub">Send me an email</a>
 </p>
 
 ---
