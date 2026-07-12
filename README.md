@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/welcome.gif" alt="welcome to my homepage">
+	<img src="https://raw.githubusercontent.com/Jean-PierreGassin/Jean-PierreGassin/main/assets/welcome.gif" alt="welcome to my homepage">
 </div>
 
 ### hi, i'm jp
@@ -17,7 +17,7 @@ congrats, your name is now permanently part of the internet. no takebacks.
 
 </details>
 
-<img src="assets/flames.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Jean-PierreGassin/Jean-PierreGassin/main/assets/flames.gif" width="100%">
 
 ### stat card
 
@@ -46,9 +46,9 @@ congrats, your name is now permanently part of the internet. no takebacks.
 
 <div align="center">
 
-<a href="mailto:jeanpierre.gassin+github@gmail.com?subject=via GitHub"><img src="assets/email.gif"></a>
+<a href="mailto:jeanpierre.gassin+github@gmail.com?subject=via GitHub"><img src="https://raw.githubusercontent.com/Jean-PierreGassin/Jean-PierreGassin/main/assets/email.gif"></a>
 
-<img src="assets/counter.gif" width="80"><br><sub>visitors since 1993</sub>
+<img src="https://raw.githubusercontent.com/Jean-PierreGassin/Jean-PierreGassin/main/assets/counter.gif" width="80"><br><sub>visitors since 1993</sub>
 
 <details>
 <summary>click to view page source</summary>
@@ -61,4 +61,4 @@ congrats, your name is now permanently part of the internet. no takebacks.
 
 </div>
 
-<img src="assets/flames.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Jean-PierreGassin/Jean-PierreGassin/main/assets/flames.gif" width="100%">
