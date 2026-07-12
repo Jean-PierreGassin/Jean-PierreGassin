@@ -1,63 +1,64 @@
-<h1 align="center">Hey, I'm Jean-Pierre 👋</h1>
+<div align="center">
+	<img src="assets/welcome.gif" alt="welcome to my homepage">
+</div>
 
-<p align="center">
-  Programmer/Developer · PHP Specialist · Based in Gold Coast, AU
-</p>
+### hi, i'm jp
 
-<p align="center">
-  <a href="https://github.com/Jean-PierreGassin">
-    <img src="https://komarev.com/ghpvc/?username=Jean-PierreGassin&style=flat-square&color=6366f1" alt="Profile views" />
-  </a>
-</p>
+based in gold coast, australia - born in '93 (i'm as old as doom)
 
----
+<details>
+<summary>click to sign my guestbook</summary>
 
-### 👨‍💻 About Me
+- xXx_h4ck3rm4n_xXx: nice site!!
+- anonymous: 1993 called, it wants its readme back
+- you: incredible, superb, one of a kind!
 
-I'm a programmer/developer with a deep focus on PHP and modern web ecosystems. I care about writing clean, maintainable code and building systems that scale - whether that's crafting robust APIs, wiring up complex backend logic, or architecting solutions from the ground up.
+congrats, your name is now permanently part of the internet. no takebacks.
 
-When I'm not shipping code, I'm working toward building something of my own.
+</details>
 
----
+<img src="assets/flames.gif" width="100%">
 
-### 🛠️ Tech Stack
+### stat card
 
-#### Languages
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+```
++------------------+------------------------------------------+
+| STAT             | VALUE                                    |
++------------------+------------------------------------------+
+| class            | full stack dev                           |
+| hp               | regenerating, please wait                |
+| known bugs       | works on my machine                      |
+| party members    | partner, 2 kids, 1 mortgage              |
+| status           | performing constant tls handshakes       |
++------------------+------------------------------------------+
+```
 
-#### Frameworks & Libraries
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+### stack
 
-#### Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+```
++------------------+------------------------------------------+
+| THING            | DETAILS OF THING                         |
++------------------+------------------------------------------+
+| languages        | php, js / ts                             |
+| everything else  | i learn fast                             |
++------------------+------------------------------------------+
+```
 
----
+<div align="center">
 
-### 🎮 Beyond the Code
+<a href="mailto:jeanpierre.gassin+github@gmail.com?subject=via GitHub"><img src="assets/email.gif"></a>
 
-- Dad to 2 awesome humans
-- Passionate about **analytical tooling** - from performance benchmarking to data-driven dashboards
-- Enjoy turning raw data into actionable insights through well-crafted interfaces
-- Currently exploring the frontier of **AI-assisted development workflows** 🤖
+<img src="assets/counter.gif" width="80"><br><sub>visitors since 1993</sub>
 
----
+<details>
+<summary>click to view page source</summary>
 
-### 📫 Get in Touch
+```html
+<!-- if you're reading this, hi. this is held together by hope -->
+```
 
-<p>
-  <a href="mailto:jeanpierre.gassin+github@gmail.com?subject=via GitHub">Send me an email</a>
-</p>
+</details>
 
----
+</div>
 
-<p align="center">
-  <sub>Always learning. Always building.</sub>
-</p>
+<img src="assets/flames.gif" width="100%">
